@@ -1,0 +1,9 @@
+
+Task Management Application by Eimear Currie
+
+Purpose
+- To keep track of user tasks, allows creation and deletion of reminders, as well as scheduling of notifications.
+
+Installation
+- Download project files and open in XCode editor. 
+- Select simulator and press run
